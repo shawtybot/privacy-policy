@@ -1,8 +1,8 @@
-# **[Shawty Discord Bot Hizmet Şartları](https://shawtybot.github.io)**
+# **[Swozy Discord Bot Hizmet Şartları](https://swozybot.github.io)**
 
-![Shawty Bot](https://cdn.discordapp.com/attachments/984627631980949504/1037774916684087296/ezgif-2-dc349347a7.jpg)
+![Swozy Bot](https://cdn.discordapp.com/attachments/984627631980949504/1037774916684087296/ezgif-2-dc349347a7.jpg)
 
-**»** ("**[Bot](https://shawtybot.github.io)**", "**[Geliştirici](https://github.com/Artidox)**")
+**»** ("**[Bot](https://swozybot.github.io)**", "**[Geliştirici](https://github.com/Artidox)**")
 
 ---
 
@@ -31,7 +31,7 @@ Herhangi bir veritabanı kullanmadığımız için, botun dahili önbelleğinde 
 Herhangi bir konuda endişeniz varsa, aşağıdakilerden herhangi biri aracılığıyla benimle iletişime geçebilirsiniz
 
 - [WhatsApp.](https://wa.me/+2250173455845)
-- [Discord.](https://discord.gg/shawty)
+- [Discord.](https://discord.gg/westeria)
 
 ![Discord](https://discord.c99.nl/widget/theme-3/790620112919068722.png)
 
@@ -44,6 +44,6 @@ Herhangi bir konuda endişeniz varsa, aşağıdakilerden herhangi biri aracılı
 
 ---
 
-*[Hizmet şartlarını](https://github.com/shawtybot/terms-of-service/blob/main/README.md) da okumayı unutmayın.* 
+*[Hizmet şartlarını](https://github.com/swozybot/terms-of-service/blob/main/README.md) da okumayı unutmayın.* 
 
 ##### Son Güncelleme: 3 Kasım 2022.
